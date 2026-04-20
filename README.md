@@ -22,7 +22,7 @@ See `sample_data/` for example images.
 ![Sample Image 1](sample_data/processed_0a7faa2a.png)
 
 ### 3D Image
-![Sample Image 2](sample_data/processed_0a7faaa2a.png)
+![Sample Image 2](sample_data/stereo_processed_0a7faa2a.png)
 
 ## Tools
 - PyTorch
