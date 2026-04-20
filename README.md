@@ -34,7 +34,7 @@ These are example preprocessed images used in the pipeline:
 
 | Sample 1 | Sample 2 |
 |---|---|
-| ![](sample_data/processed_0a7faa2a.png) | ![](sample_data/stereo_processed_0a7faaa2a.png) |
+| ![](sample_data/processed_0a7faa2a.png) | ![](sample_data/stereo_processed_0a7faa2a.png) |
 
 ## Tools
 - PyTorch
