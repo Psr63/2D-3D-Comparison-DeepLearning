@@ -1,0 +1,29 @@
+#Dataset folders
+2D_Preprocess/
+3D_Preprocess/
+3D_Preprocess_Split/
+preprocessed1-+-augment-2/
+R_2D_Preprocess-1-Split/
+R_3D_Preprocess-1/
+R_3D_Preprocess-1-Split/
+
+#Image files
+*.png
+*.jpg
+*.jpeg
+
+#Model files
+*.pth
+*.pt
+
+#Environment
+venv/
+__pycache__/
+
+#Notebook cache
+.ipynb_checkpoints/
+
+#Data files
+*.csv
+*.xlsx
+*.zip
